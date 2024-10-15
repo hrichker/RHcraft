@@ -1,0 +1,98 @@
+[14:47:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:47:02] [main/INFO]: Using primary tweak class name net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:47:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLTweaker
+[14:47:02] [main/INFO]: Forge Mod Loader version 14.23.5.2860 for Minecraft 1.12.2 loading
+[14:47:02] [main/INFO]: Java is Java HotSpot(TM) 64-Bit Server VM, version 1.8.0_421, running on Mac OS X:x86_64:15.0, installed at /Library/Internet Plug-Ins/JavaAppletPlugin.plugin/Contents/Home
+[14:47:02] [main/INFO]: Searching /Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/instances/forge 1.12.2/instance/mods for mods
+[14:47:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:47:02] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:47:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:47:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLInjectionAndSortingTweaker
+[14:47:02] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:47:04] [main/INFO]: Found valid fingerprint for Minecraft Forge. Certificate fingerprint e3c3d50c7c986df74c645c0ac54639741c90a557
+[14:47:04] [main/INFO]: Found valid fingerprint for Minecraft. Certificate fingerprint cd99959656f753dc28d863b46769f7f8fbaefcfc
+[14:47:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.relauncher.CoreModManager$FMLPluginWrapper
+[14:47:04] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.FMLDeobfTweaker
+[14:47:05] [main/INFO]: Loading tweak class name net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:47:05] [main/INFO]: Calling tweak class net.minecraftforge.fml.common.launcher.TerminalTweaker
+[14:47:05] [main/INFO]: Launching wrapped minecraft {net.minecraft.client.main.Main}
+[14:47:06] [Client thread/INFO]: Setting user: sillG
+[14:47:09] [Client thread/INFO]: LWJGL Version: 2.9.4
+[14:47:09] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Initial mode: 1680 x 1050 x 32 @0Hz
+[14:47:10] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] MemoryUtil Accessor: AccessorUnsafe
+[14:47:10] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] GL_EXT_direct_state_access was reported as available but an entry point is missing
+[14:47:10] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] GL_NV_primitive_restart was reported as available but an entry point is missing
+[14:47:10] [Client thread/INFO]: Could not load splash.properties, will create a default one
+[14:47:10] [Client thread/INFO]: -- System Details --
+Details:
+	Minecraft Version: 1.12.2
+	Operating System: Mac OS X (x86_64) version 15.0
+	Java Version: 1.8.0_421, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 1432761104 bytes (1366 MB) / 1546125312 bytes (1474 MB) up to 2863661056 bytes (2731 MB)
+	JVM Flags: 2 total; -Xmx3072m -Xms1024m
+	IntCache: cache: 0, tcache: 0, allocated: 0, tallocated: 0
+	FML: 
+	Loaded coremods (and transformers): 
+	GL info: ' Vendor: 'Intel Inc.' Version: '2.1 INTEL-23.0.17' Renderer: 'Intel(R) Iris(TM) Plus Graphics 655'
+[14:47:10] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] GL_EXT_direct_state_access was reported as available but an entry point is missing
+[14:47:10] [Client thread/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] GL_NV_primitive_restart was reported as available but an entry point is missing
+[14:47:10] [Client thread/INFO]: MinecraftForge v14.23.5.2860 Initialized
+[14:47:10] [Client thread/INFO]: Starts to replace vanilla recipe ingredients with ore ingredients.
+[14:47:10] [Client thread/INFO]: Invalid recipe found with multiple oredict ingredients in the same ingredient...
+[14:47:11] [Client thread/INFO]: Replaced 1227 ore ingredients
+[14:47:11] [Client thread/INFO]: Searching /Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/instances/forge 1.12.2/instance/mods for mods
+[14:47:12] [Client thread/INFO]: Forge Mod Loader has identified 4 mods to load
+[14:47:12] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at CLIENT
+[14:47:12] [Client thread/INFO]: Attempting connection with missing mods [minecraft, mcp, FML, forge] at SERVER
+[14:47:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge
+[14:47:12] [Client thread/INFO]: Processing ObjectHolder annotations
+[14:47:12] [Client thread/INFO]: Found 1168 ObjectHolder annotations
+[14:47:12] [Client thread/INFO]: Identifying ItemStackHolder annotations
+[14:47:12] [Client thread/INFO]: Found 0 ItemStackHolder annotations
+[14:47:12] [Client thread/INFO]: Configured a dormant chunk cache size of 0
+[14:47:12] [Forge Version Check/INFO]: [forge] Starting version check at http://files.minecraftforge.net/maven/net/minecraftforge/forge/promotions_slim.json
+[14:47:12] [Client thread/INFO]: Applying holder lookups
+[14:47:12] [Client thread/INFO]: Holder lookups applied
+[14:47:12] [Client thread/INFO]: Applying holder lookups
+[14:47:12] [Client thread/INFO]: Holder lookups applied
+[14:47:12] [Client thread/INFO]: Applying holder lookups
+[14:47:12] [Client thread/INFO]: Holder lookups applied
+[14:47:12] [Client thread/INFO]: Applying holder lookups
+[14:47:12] [Client thread/INFO]: Holder lookups applied
+[14:47:12] [Client thread/INFO]: Injecting itemstacks
+[14:47:12] [Client thread/INFO]: Itemstack injection complete
+[14:47:13] [Thread-3/INFO]: Using sync timing. 200 frames of Display.update took 144181870 nanos
+[14:47:13] [Sound Library Loader/INFO]: Starting up SoundSystem...
+[14:47:13] [Thread-4/INFO]: Initializing LWJGL OpenAL
+[14:47:13] [Thread-4/INFO]: (The LWJGL binding of OpenAL.  For more information, see http://www.lwjgl.org)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] getPathFromClassLoader: searching for: openal
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: sun.misc.Launcher$AppClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: java.net.URLClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: java.security.SecureClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] getPathFromClassLoader: searching for: lwjgl
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: sun.misc.Launcher$AppClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: java.net.URLClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to locate findLibrary method: java.lang.NoSuchMethodException: java.security.SecureClassLoader.findLibrary(java.lang.String)
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Found 3 OpenAL paths
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Testing '/Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/natives/1.12.2-forge-14.23.5.2860/openal.dylib'
+[14:47:13] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Found OpenAL at '/Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/natives/1.12.2-forge-14.23.5.2860/openal.dylib'
+[14:47:14] [Forge Version Check/INFO]: [forge] Found status: AHEAD Target: null
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to load /Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/natives/1.12.2-forge-14.23.5.2860/openal.dylib: Could not open ALC device
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Testing '/Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/instances/forge 1.12.2/instance/openal.dylib'
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to load /Users/harleyrichker/Library/Application Support/gdlauncher_carbon/data/instances/forge 1.12.2/instance/openal.dylib: Could not load OpenAL library
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Testing 'openal.dylib'
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Failed to load openal.dylib: Could not load OpenAL library
+[14:47:14] [Thread-4/INFO]: [org.lwjgl.LWJGLUtil:log:514]: [LWJGL] Found OpenAL Bundle
+[14:47:14] [Thread-4/INFO]: OpenAL initialized.
+[14:47:14] [Sound Library Loader/INFO]: Sound engine started
+[14:47:16] [Client thread/INFO]: Max texture size: 16384
+[14:47:18] [Client thread/INFO]: Created: 512x512 textures-atlas
+[14:47:19] [Client thread/INFO]: Applying holder lookups
+[14:47:19] [Client thread/INFO]: Holder lookups applied
+[14:47:19] [Client thread/INFO]: Injecting itemstacks
+[14:47:19] [Client thread/INFO]: Itemstack injection complete
+[14:47:19] [Client thread/INFO]: Forge Mod Loader has successfully loaded 4 mods
+[14:47:24] [Client thread/INFO]: Stopping!
+[14:47:24] [Client thread/INFO]: SoundSystem shutting down...
+[14:47:25] [Client thread/WARN]: Author: Paul Lamb, www.paulscode.com

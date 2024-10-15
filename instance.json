@@ -1,11 +1,11 @@
 {
   "_version": "1",
-  "name": "RHcraft",
+  "name": "forge 1.12.2",
   "icon": null,
-  "created_at": "2024-10-15T21:26:49.690084Z",
-  "updated_at": "2024-10-15T21:26:49.690085Z",
-  "last_played": null,
-  "seconds_played": 0,
+  "created_at": "2024-10-15T21:46:57.858157Z",
+  "updated_at": "2024-10-15T21:46:57.858158Z",
+  "last_played": "2024-10-15T21:47:25.636687Z",
+  "seconds_played": 24,
   "modpack": null,
   "game_configuration": {
     "version": {
